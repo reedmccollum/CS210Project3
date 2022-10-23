@@ -1,1 +1,2 @@
 # CS210Project3
+This program sought to intake a file of items and numbers and perform multiple actions using both Python and C++. The Python integration code was written by Alvis Forrest, a professor at SNHU. I am not fully sure of its function, and would like to fully understand how it functions. I also think that my handling of user interaction chacking could be improved further. I am pleased about my ability to develop fully function procedure in Python and use them in a C++ enviroment.
